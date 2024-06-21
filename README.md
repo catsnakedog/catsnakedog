@@ -3,7 +3,7 @@
 - 홍익대학교 게임개발 동아리 ExP Make팀 프로그래머 2022.3~
 - Unity, C#, Unreal, C++ 개발
 
-YouTude <a href="[catsnakedog](https://github.com/catsnakedog/catsnakedog/edit/main/README.md)"></a>
+YouTude <a href="[catsnakedog](https://github.com/catsnakedog/catsnakedog/edit/main/README.md)">a</a>
 
 Notion
 <!--
