@@ -1,6 +1,11 @@
 ## 안녕하세요
-- a
+- 홍익대학교 22학번 컴퓨터공학과 재학
+- 홍익대학교 게임개발 동아리 ExP Make팀 프로그래머 2022.3~
+- Unity, C#, Unreal, C++ 개발
 
+YouTude <a href="[catsnakedog](https://github.com/catsnakedog/catsnakedog/edit/main/README.md)"></a>
+
+Notion
 <!--
 **catsnakedog/catsnakedog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
