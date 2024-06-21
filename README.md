@@ -3,9 +3,9 @@
 - 홍익대학교 게임개발 동아리 ExP Make팀 프로그래머 2022.3~
 - Unity, C#, Unreal, C++ 개발
 
-YouTude <a href="https://github.com/catsnakedog/catsnakedog/edit/main/">a</a>
+<a href="https://www.youtube.com/@user-ns4cc8hk7l">YouTude</a>
+<a href="https://github.com/catsnakedog/catsnakedog/edit/main/">Notion</a>
 
-Notion
 <!--
 **catsnakedog/catsnakedog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
