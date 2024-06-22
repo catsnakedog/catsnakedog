@@ -1,11 +1,12 @@
 ### 안녕하세요
-- 홍익대학교 22학번 컴퓨터공학과 재학
+- 홍익대학교 22학번 컴퓨터공학과 재학 2022.3~
 - 홍익대학교 게임개발 동아리 ExP Make팀 프로그래머 2022.3~
+- 육군 75보병사단 포병여단 929대대 복무중 2024.3~
 - Unity, C#, Unreal, C++ 개발
 
 [YouTube](https://www.youtube.com/@user-ns4cc8hk7l)
 <br/>
-[Notion](https://github.com/catsnakedog/catsnakedog/edit/main/)
+[Notion](https://www.notion.so/505fc15cdb9b4f0786cb7693daf20968)
 
 # 개발 게임
 - 2024 ExP Make팀 장기 프로젝트 **DebugLuv** [Github](https://github.com/catsnakedog/DebugLuv) 2023.12 ~ Unity / 2D, Android / 미소녀 연예 시물레이션 / 유트
