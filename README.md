@@ -9,19 +9,19 @@
 [Notion](https://www.notion.so/505fc15cdb9b4f0786cb7693daf20968)
 
 # 개발 게임
-- 2024 ExP Make팀 장기 프로젝트 **DebugLuv** [Github](https://github.com/catsnakedog/DebugLuv) 2023.12 ~ Unity / 2D, Android / 미소녀 연예 시물레이션 / 유트
-- 2024 1학기 게임잼 **나 돌아갈래** [Github](https://github.com/catsnakedog/GameJam0216/tree/main) 2024.2.16 Unity / 2D, Android / 스토리, 아케이드
-- 2023 ExP Make팀 장기 프로젝트 **Rifa** [Github](https://github.com/hans4809/Rifa) 2023.04 ~ Unreal / 3D, PC(Steam) / 어드벤처
-- 2023 시각디자인학과 졸업프로젝트 **CosmosTraveler** [Github](https://github.com/coolming0/CosmosTraveler) 2023.11 ~ 2023.12 Unity / 3D, Android / 어드벤처
-- 2023 ExP Make팀 게임잼 **지각! 열차!** [Github](https://github.com/hans4809/Emergency) 2023.9.01 Unity / 2D, Android / 아케이드
-- 2023 이븐아이 게임톤 외주 **모찌야 달려** [Github](https://github.com/catsnakedog/NemoWorld) 2023.6 ~ 2023.8 Unity / 2D, Android / 플렛포머
-- 2023 ExP Make팀 게임잼 **JumpOnEarth** 2023.07.27 / 3D, PC / 캐주얼
-- 2023 2학기 게임잼 **선녀는 모르겠고** ???
-- 2023 1학기 게임잼 **수강신청이 망해버렸으니 학교 파괴하려합니다!** ???
-- 2023 1학기 프로젝트 **NeonTrace** [Github](https://github.com/catsnakedog/NeonTraces) 2023.4 ~ 2024.3 Unity / 3D, Android / 액션
-- 2023 1학기 프로젝트 **EscaPhone** [Github](https://github.com/catsnakedog/Escaphone) 2023.4 Unity / 2D, Android / 방탈출
-- 2022 2학기 프로젝트 **날씨요정은 힘들어!** [Github](https://github.com/catsnakedog/weatherGrow) 2022.11 ~ 2023.5 Unity / 2D, Android / 캐주얼
-- 2022 1학기 프로젝트 **지켜라! 모닥불** ???
+- 2024 ExP Make팀 장기 프로젝트 **DebugLuv** [Github](https://github.com/catsnakedog/DebugLuv) 2023.12 ~ / Unity / 2D, Android / 미소녀 연예 시물레이션 / [유튜브]() / [스토어]() / [노션]()
+- 2024 1학기 게임잼 **나 돌아갈래** [Github](https://github.com/catsnakedog/GameJam0216/tree/main) 2024.2.16 / Unity / 2D, Android / 스토리, 아케이드 / [유튜브]() / [스토어]() / [노션]()
+- 2023 ExP Make팀 장기 프로젝트 **Rifa** [Github](https://github.com/hans4809/Rifa) 2023.04 ~ / Unreal / 3D, PC(Steam) / 어드벤처 / [유튜브]() / [스토어]() / [노션]()
+- 2023 시각디자인학과 졸업프로젝트 **CosmosTraveler** [Github](https://github.com/coolming0/CosmosTraveler) 2023.11 ~ 2023.12 / Unity / 3D, Android / 어드벤처 / [유튜브]() / [스토어]() / [노션]()
+- 2023 ExP Make팀 게임잼 **지각! 열차!** [Github](https://github.com/hans4809/Emergency) 2023.9.01 / Unity / 2D, Android / 아케이드 / [유튜브]() / [스토어]() / [노션]()
+- 2023 이븐아이 게임톤 외주 **모찌야 달려** [Github](https://github.com/catsnakedog/NemoWorld) 2023.6 ~ 2023.8 / Unity / 2D, Android / 플렛포머 / [유튜브]() / [스토어]() / [노션]()
+- 2023 ExP Make팀 게임잼 **JumpOnEarth** 2023.07.27 / unity / 3D, PC / 캐주얼 / [유튜브]() / [스토어]() / [노션]()
+- 2023 2학기 게임잼 **선녀는 모르겠고** ??? / [유튜브]() / [스토어]() / [노션]()
+- 2023 1학기 게임잼 **수강신청이 망해버렸으니 학교 파괴하려합니다!** ??? / [유튜브]() / [스토어]() / [노션]()
+- 2023 1학기 프로젝트 **NeonTrace** [Github](https://github.com/catsnakedog/NeonTraces) 2023.4 ~ 2024.3 / Unity / 3D, Android / 액션 / [유튜브]() / [스토어]() / [노션]()
+- 2023 1학기 프로젝트 **EscaPhone** [Github](https://github.com/catsnakedog/Escaphone) 2023.4 / Unity / 2D, Android / 방탈출 / [유튜브]() / [스토어]() / [노션]()
+- 2022 2학기 프로젝트 **날씨요정은 힘들어!** [Github](https://github.com/catsnakedog/weatherGrow) 2022.11 ~ 2023.05 / Unity / 2D, Android / 캐주얼 / [유튜브]() / [스토어]() / [노션]()
+- 2022 1학기 프로젝트 **지켜라! 모닥불** 2022.04 ~ 2022.06 / [유튜브](https://www.youtube.com/watch?v=bafwo-bdiGA) / [스토어](https://play.google.com/store/apps/details?id=com.ExpStudio.defensefire&hl=ko-KR) / [노션](https://www.notion.so/69d0907909e54b148a8f6529859ed587?pvs=4)
 
 - 
 
