@@ -10,7 +10,7 @@
 
 # 개발 게임
 - 2024 ExP Make팀 장기 프로젝트 **DebugLuv** [Github](https://github.com/catsnakedog/DebugLuv) 2023.12 ~ / Unity / 2D, Android / 미소녀 연예 시물레이션 / [유튜브]() / [스토어]() / [노션]()
-- 2024 1학기 게임잼 **나 돌아갈래** [Github](https://github.com/catsnakedog/GameJam0216/tree/main) 2024.2.16 / Unity / 2D, Android / 스토리, 아케이드 / [유튜브](https://www.youtube.com/watch?v=dy1SeitWzCk) / [스토어]() / [노션]()
+- 2024 1학기 게임잼 **나 돌아갈래** [Github](https://github.com/catsnakedog/GameJam0216/tree/main) 2024.2.16 / Unity / 2D, Android / 스토리, 아케이드 / [유튜브](https://www.youtube.com/watch?v=dy1SeitWzCk) / [스토어](https://play.google.com/store/apps/details?id=com.ExP.Iwannacomeback&hl=ko-KR) / [노션](https://www.notion.so/a55cf6220d1a4ef8a0514ae22f15eb86?pvs=4)
 - 2023 ExP Make팀 장기 프로젝트 **Rifa** [Github](https://github.com/hans4809/Rifa) 2023.04 ~ / Unreal / 3D, PC(Steam) / 어드벤처 / [유튜브]() / [스토어]() / [노션]()
 - 2023 시각디자인학과 졸업프로젝트 **CosmosTraveler** [Github](https://github.com/coolming0/CosmosTraveler) 2023.11 ~ 2023.12 / Unity / 3D, Android / 어드벤처 / [유튜브](https://www.youtube.com/watch?v=OJ3NeB2xKdc) / [스토어]() / [노션]()
 - 2023 ExP Make팀 게임잼 **지각! 열차!** [Github](https://github.com/hans4809/Emergency) 2023.9.01 / Unity / 2D, Android / 아케이드 / [유튜브](https://www.youtube.com/watch?v=7SSOvyxw32U) / [스토어](https://play.google.com/store/apps/details?id=com.Emergency.ExP&hl=ko-KR) / [노션](https://www.notion.so/412f0afd6c1743a4b15246614abd6396?pvs=4)
