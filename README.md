@@ -6,7 +6,7 @@
 
 [YouTube](https://www.youtube.com/@user-ns4cc8hk7l)
 <br/>
-[Notion](https://www.notion.so/505fc15cdb9b4f0786cb7693daf20968)
+[Notion](https://brawny-chatter-c90.notion.site/505fc15cdb9b4f0786cb7693daf20968?pvs=4)
 
 # 개발 게임
 - 2024 ExP Make팀 장기 프로젝트 **DebugLuv** [Github](https://github.com/catsnakedog/DebugLuv) 2023.12 ~ / Unity / 2D, Android / 미소녀 연예 시물레이션 / [유튜브]() / [노션](https://www.notion.so/DebugLuv-12d615d57f7442d58501a1105b942a45?pvs=4)
