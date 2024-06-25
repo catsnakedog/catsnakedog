@@ -23,8 +23,6 @@
 - 2022 2학기 프로젝트 **날씨요정은 힘들어!** [Github](https://github.com/catsnakedog/weatherGrow) 2022.11 ~ 2023.05 / Unity / 2D, Android / 캐주얼 / [유튜브](https://www.youtube.com/watch?v=gqcCdwJ68tw) / [스토어](https://play.google.com/store/apps/details?id=com.ExP.WeatherFairy&hl=ko-KR) / [노션](https://www.notion.so/8d27f41bdb974ac39b69af93cde116bb?pvs=4)
 - 2022 1학기 프로젝트 **지켜라! 모닥불** 2022.04 ~ 2022.06 / Unity / 2D, Android / 캐주얼 / [유튜브](https://www.youtube.com/watch?v=bafwo-bdiGA) / [스토어](https://play.google.com/store/apps/details?id=com.ExpStudio.defensefire&hl=ko-KR) / [노션](https://www.notion.so/69d0907909e54b148a8f6529859ed587?pvs=4)
 
-- 
-
 
 <!--
 **catsnakedog/catsnakedog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
