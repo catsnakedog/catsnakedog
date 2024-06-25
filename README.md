@@ -9,7 +9,7 @@
 [Notion](https://brawny-chatter-c90.notion.site/505fc15cdb9b4f0786cb7693daf20968?pvs=4)
 
 # 개발 게임
-- 2024 ExP Make팀 장기 프로젝트 **DebugLuv** [Github](https://github.com/catsnakedog/DebugLuv) 2023.12 ~ / Unity / 2D, Android / 미소녀 연예 시물레이션 / [유튜브]() / [노션](https://www.notion.so/DebugLuv-12d615d57f7442d58501a1105b942a45?pvs=4)
+- 2024 ExP Make팀 장기 프로젝트 **DebugLuv** [Github](https://github.com/catsnakedog/DebugLuv) 2023.12 ~ / Unity / 2D, Android / 미소녀 연예 시물레이션 / [유튜브](https://www.youtube.com/watch?v=evi_fuwXGqY) / [노션](https://www.notion.so/DebugLuv-12d615d57f7442d58501a1105b942a45?pvs=4)
 - 2024 1학기 게임잼 **나 돌아갈래** [Github](https://github.com/catsnakedog/GameJam0216/tree/main) 2024.2.16 / Unity / 2D, Android / 스토리, 아케이드 / [유튜브](https://www.youtube.com/watch?v=dy1SeitWzCk) / [스토어](https://play.google.com/store/apps/details?id=com.ExP.Iwannacomeback&hl=ko-KR) / [노션](https://www.notion.so/a55cf6220d1a4ef8a0514ae22f15eb86?pvs=4)
 - 2023 ExP Make팀 장기 프로젝트 **Rifa** [Github](https://github.com/hans4809/Rifa) 2023.04 ~ / Unreal / 3D, PC(Steam) / 어드벤처 / [스토어](https://store.steampowered.com/app/2687260/RIFA_Demo/) / [노션](https://github.com/hans4809/Rifa)
 - 2023 시각디자인학과 졸업프로젝트 **CosmosTraveler** [Github](https://github.com/coolming0/CosmosTraveler) 2023.11 ~ 2023.12 / Unity / 3D, Android / 어드벤처 / [유튜브](https://www.youtube.com/watch?v=OJ3NeB2xKdc) / [노션](https://www.notion.so/CosmosTraveler-3894f76a7587489798061d7ec6ef5c55?pvs=4)
