@@ -1,7 +1,6 @@
 ### 안녕하세요
 - 홍익대학교 22학번 컴퓨터공학과 재학 2022.3~
 - 홍익대학교 게임개발 동아리 ExP Make팀 프로그래머 2022.3~
-- 육군 75보병사단 포병여단 929대대 복무중 2024.3~
 - Unity, C#, Unreal, C++ 개발
 
 [YouTube](https://www.youtube.com/@user-ns4cc8hk7l)
